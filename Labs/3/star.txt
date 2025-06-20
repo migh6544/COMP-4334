@@ -1,0 +1,6 @@
+Return_of_the_Jedi 5.0
+The_Phantom_Menace 1.0
+Return_of_the_Jedi 4.5
+The_Force_Awakens 5.0
+The_Phantom_Menace 2.0
+The_Phantom_Menace 4.0

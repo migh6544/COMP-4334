@@ -1,0 +1,136 @@
+### COMP 4334
+### Lab 5
+### Michael Ghattas
+### May/4/2025
+
+---------------------------------------------------
+
+SQL Query: Players born in Colorado
++--------------+
+|colorado_count|
++--------------+
+|            88|
++--------------+
+DataFrame Query: Players born in Colorado = 88
+
+---------------------------------------------------
+
+SQL Query: Average height by country
++--------------+----------+
+|  birthCountry|avg_height|
++--------------+----------+
+|     Indonesia|      78.0|
+|       Belgium|      77.0|
+|       Jamaica|     75.25|
+|   Afghanistan|      75.0|
+|        Brazil|     74.33|
+|     Singapore|      74.0|
+|          Guam|      74.0|
+|      Honduras|      74.0|
+|     Australia|      73.5|
+|   Netherlands|     73.45|
+|   South Korea|     73.41|
+|       Curacao|     73.36|
+|         Spain|     73.25|
+|   Philippines|      73.0|
+|         China|      73.0|
+|        Norway|      73.0|
+|         Aruba|      73.0|
+|   Switzerland|      73.0|
+|     Lithuania|      73.0|
+|        Panama|     72.89|
+|          D.R.|     72.82|
+|        Taiwan|     72.73|
+|        Sweden|     72.67|
+|     Nicaragua|     72.57|
+|       Germany|     72.38|
+|           USA|     72.26|
+|     Venezuela|     72.23|
+|         Japan|     72.21|
+|        Mexico|     72.13|
+|        Greece|      72.0|
+|       Bahamas|      72.0|
+|      Slovakia|      72.0|
+|American Samoa|      72.0|
+|  Saudi Arabia|      72.0|
+|           CAN|     71.98|
+|          P.R.|     71.88|
+|        France|     71.83|
+|       Austria|     71.75|
+|          Cuba|     71.68|
+|      Colombia|     71.65|
+|        Poland|      71.6|
+|          V.I.|     71.33|
+|         Italy|     71.14|
+|      Viet Nam|      71.0|
+|        At Sea|      71.0|
+|Czech Republic|      71.0|
+|United Kingdom|     70.38|
+|              |      70.0|
+|        Belize|      70.0|
+|        Russia|     69.86|
+|       Ireland|     69.55|
+|       Finland|      69.0|
+|       Denmark|      67.0|
++--------------+----------+
+
+---------------------------------------------------
+
+DataFrame Query: Average height by country
++--------------+----------+
+|  birthCountry|avg_height|
++--------------+----------+
+|     Indonesia|      78.0|
+|       Belgium|      77.0|
+|       Jamaica|     75.25|
+|   Afghanistan|      75.0|
+|        Brazil|     74.33|
+|     Singapore|      74.0|
+|          Guam|      74.0|
+|      Honduras|      74.0|
+|     Australia|      73.5|
+|   Netherlands|     73.45|
+|   South Korea|     73.41|
+|       Curacao|     73.36|
+|         Spain|     73.25|
+|   Philippines|      73.0|
+|         China|      73.0|
+|        Norway|      73.0|
+|         Aruba|      73.0|
+|   Switzerland|      73.0|
+|     Lithuania|      73.0|
+|        Panama|     72.89|
+|          D.R.|     72.82|
+|        Taiwan|     72.73|
+|        Sweden|     72.67|
+|     Nicaragua|     72.57|
+|       Germany|     72.38|
+|           USA|     72.26|
+|     Venezuela|     72.23|
+|         Japan|     72.21|
+|        Mexico|     72.13|
+|        Greece|      72.0|
+|       Bahamas|      72.0|
+|      Slovakia|      72.0|
+|American Samoa|      72.0|
+|  Saudi Arabia|      72.0|
+|           CAN|     71.98|
+|          P.R.|     71.88|
+|        France|     71.83|
+|       Austria|     71.75|
+|          Cuba|     71.68|
+|      Colombia|     71.65|
+|        Poland|      71.6|
+|          V.I.|     71.33|
+|         Italy|     71.14|
+|      Viet Nam|      71.0|
+|        At Sea|      71.0|
+|Czech Republic|      71.0|
+|United Kingdom|     70.38|
+|              |      70.0|
+|        Belize|      70.0|
+|        Russia|     69.86|
+|       Ireland|     69.55|
+|       Finland|      69.0|
+|       Denmark|      67.0|
++--------------+----------+
