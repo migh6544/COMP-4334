@@ -1,0 +1,38 @@
+QUERY-1:
+Number of US airports: 549
+Number of US to US routes: 5450
+
+QUERY-2:
+Airports with one-way flight to/from DEN but not roundtrip:
++----+
+|IATA|
++----+
+| ORF|
+| CDR|
+| AIA|
++----+
+
+QUERY-3:
+Airports that require 4+ flights to reach from DEN:
++---+----+
+| id|Hops|
++---+----+
+|VAK|   4|
+|HPB|   4|
+|NUL|   4|
+|AUK|   4|
+|SHG|   4|
+|MLL|   4|
+|OOK|   4|
+|WNA|   4|
+|TNC|   4|
+|CEM|   4|
+|TOG|   4|
+|KAL|   4|
+|ANV|   4|
+|WSN|   4|
+|HSL|   4|
+|VEE|   4|
+|ARC|   5|
+|NME|   5|
++---+----+

@@ -1,0 +1,29 @@
+Colorado Rockies All-Stars count: 24
++---------+------+---------+----------+----------------+
+|playerID |teamID|nameFirst|nameLast  |teamName        |
++---------+------+---------+----------+----------------+
+|hammoje01|COL   |Jeffrey  |Hammonds  |Colorado Rockies|
+|wilsopr01|COL   |Preston  |Wilson    |Colorado Rockies|
+|hollima01|COL   |Matt     |Holliday  |Colorado Rockies|
+|hawpebr01|COL   |Brad     |Hawpe     |Colorado Rockies|
+|arenano01|COL   |Nolan    |Arenado   |Colorado Rockies|
+|galaran01|COL   |Andres   |Galarraga |Colorado Rockies|
+|walkela01|COL   |Larry    |Walker    |Colorado Rockies|
+|blackch02|COL   |Charlie  |Blackmon  |Colorado Rockies|
+|heltoto01|COL   |Todd     |Helton    |Colorado Rockies|
+|cookaa01 |COL   |Aaron    |Cook      |Colorado Rockies|
+|jimenub01|COL   |Ubaldo   |Jimenez   |Colorado Rockies|
+|chacosh01|COL   |Shawn    |Chacon    |Colorado Rockies|
+|marquja01|COL   |Jason    |Marquis   |Colorado Rockies|
+|burksel01|COL   |Ellis    |Burks     |Colorado Rockies|
+|cirilje01|COL   |Jeff     |Cirillo   |Colorado Rockies|
+|tulowtr01|COL   |Troy     |Tulowitzki|Colorado Rockies|
+|castivi02|COL   |Vinny    |Castilla  |Colorado Rockies|
+|hamptmi01|COL   |Mike     |Hampton   |Colorado Rockies|
+|fuentbr01|COL   |Brian    |Fuentes   |Colorado Rockies|
+|cuddymi01|COL   |Michael  |Cuddyer   |Colorado Rockies|
+|lemahdj01|COL   |DJ       |LeMahieu  |Colorado Rockies|
+|gonzaca01|COL   |Carlos   |Gonzalez  |Colorado Rockies|
+|younger01|COL   |Eric     |Young     |Colorado Rockies|
+|bicheda01|COL   |Dante    |Bichette  |Colorado Rockies|
++---------+------+---------+----------+----------------+
